@@ -1,4 +1,4 @@
-# Gemini Image Storyteller 🎨📖
+# Gemini Image Storyteller 
 
 This is an AI-powered Streamlit application that generates a creative story and narrated audio from uploaded images.
 The idea behind this project was to explore **multimodal AI** — combining vision, language, and speech into a single interactive application.
